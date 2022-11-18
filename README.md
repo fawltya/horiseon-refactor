@@ -10,7 +10,7 @@ Some additional visual edits have been made, such as underlining links on hover,
 
 ## Installation
 
-To view the website visit https://fawltya.github.io/horiseon-refactor
+To view the website visit [fawltya.github.io/horiseon-refactor](https://fawltya.github.io/horiseon-refactor)
 
 ## Usage
 
@@ -20,7 +20,7 @@ Use the anchor links in the navigation bar to jump to different sections on the 
 
 ## Credits
 
-Javascript date code used on the Copyright footer from [https://kerstinmartin.com/blog/copyright-notice](Kelsey Martin Copyright Notice)
+Javascript date code used on the Copyright footer from [Kelsey Martin Copyright Notice](https://kerstinmartin.com/blog/copyright-notice)
 
 ## License
 
